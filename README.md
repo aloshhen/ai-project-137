@@ -1,77 +1,20 @@
-# WEBSITE Project
+# Project
 
-> 🤖 Этот проект был автоматически сгенерирован с помощью AI Constructor Bot
+Generated with AI Constructor Bot
 
-## 📝 Описание
-
-**ИСХОДНЫЙ ЗАПРОС:**
-сделай ьольшой сложный лендинг для продажи дестких платьев с галереей, анимациями сложными и так далее
-
-**УТОЧНЕНИЯ:**
-🧩 Какие разделы должны быть на лендинге?
-→ • Галерея платьев
-• Отзывы клиентов
-• Форма заказа
-
-🎨 Какой стиль анимаций предпочтителен?
-→ • Плавные переходы
-• Параллакс-скроллинг
-
-👥 Кто целевая аудитория?
-→ • Родители малышей
-
-⚡ Какие дополнительные функции нужны?
-→ • Фильтр по размеру/цвету
-• Калькулятор стоимости доставки
-• Интеграция с соцсетями
-
-
-
-## 🚀 Технологии
-
-- HTML5, CSS3 (SCSS), JavaScript (ES6+)  
-- GSAP (GreenSock Animation Platform) для сложных анимаций  
-- Swiper.js для галереи  
-- Parcel или Vite для сборки проекта  
-- API для калькулятора доставки (например, интеграция с почтовой службой)  
-- Социальные виджеты (Facebook, Instagram, Pinterest)
-
-## 📁 Структура проекта
-
-- `package.json`
-- `index.html`
-- `vite.config.js`
-- `tailwind.config.js`
-- `postcss.config.js`
-- `src/main.jsx`
-- `src/index.css`
-- `src/App.jsx`
-- `vercel.json`
-- `.gitignore`
-- `README.md`
-
-## 🛠️ Установка
+## Development
 
 ```bash
 npm install
-```
-
-## ▶️ Запуск
-
-```bash
-npm start
-# или
 npm run dev
 ```
 
-## 📋 План разработки
+## Build
 
-1.
+```bash
+npm run build
+```
 
-## 📄 Лицензия
+## Deploy
 
-MIT
-
-## 🤖 Создано с помощью
-
-[AI Constructor Bot](https://t.me/construct_ai_bot) - Telegram бот для автоматической генерации проектов с помощью AI
+Deployed automatically to Vercel via GitHub.
